@@ -1,4 +1,4 @@
-# 21-BigContest
+# 제주도 음식물 쓰레기양 예측을 통한 배출량 감소 방안 도출
 
 [빅콘테스트](https://www.bigcontest.or.kr/index.php)
 2021 빅콘테스트 데이터 분석 분야 퓨처스 리그 ECO 제주 출품작
