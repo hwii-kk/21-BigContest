@@ -10,3 +10,8 @@
 XGBOOST 모델을 통하여 2021년 7월, 8월의 음식물 쓰레기량을 예측해보았습니다.
 
 프로젝트에 관한 내용은 [결과보고서](https://github.com/hwii-kk/21-BigContest/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%EB%B6%84%EC%95%BC_%ED%93%A8%EC%B2%98%EC%8A%A4%EB%A6%AC%EA%B7%B8_ECO%EC%A0%9C%EC%A3%BC_%EC%B2%AD%EC%A0%95%ED%93%A8%EC%96%B4%ED%81%B4%EB%A6%B0%EC%A0%9C%EC%A3%BC_%EA%B2%B0%EA%B3%BC%EB%B3%B4%EA%B3%A0%EC%84%9C.pptx.pdf) 결과보고서를 참조해주십시오.
+
+
+
+### Contributer
+[권휘성](https://github.com/hwii-kk)권휘성, [김승종](https://github.com/sejkimm)김승종, [임성준](https://github.com/SungJun98)임성준
