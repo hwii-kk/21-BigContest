@@ -14,4 +14,4 @@ XGBOOST 모델을 통하여 2021년 7월, 8월의 음식물 쓰레기량을 예�
 
 
 ### Contributer
-[권휘성](https://github.com/hwii-kk) [김승종](https://github.com/sejkimm) [임성준](https://github.com/SungJun98)임성준
+[권휘성](https://github.com/hwii-kk) [김승종](https://github.com/sejkimm) [임성준](https://github.com/SungJun98)
